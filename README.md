@@ -103,3 +103,7 @@ In order to complete this assignment, you must do the following:
 ### Grading
 
 This assignment will be graded via peer assessment.
+
+### Craig's Notes
+
+This assignment was relatively easy from a coding standpoint and more difficult from a GitHub standpoint.  It has made me realize that data science is as much about learning how to interact with a community as it is just solving problems
